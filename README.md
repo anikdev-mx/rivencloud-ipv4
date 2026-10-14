@@ -98,7 +98,8 @@ sudo ufw allow 8788/tcp          # AGENT_PORT — for remote nodes to connect
 Also open both ranges in your cloud provider's Security Group / Firewall panel
 if you're on AWS, GCP, Azure, Contabo, Hetzner, etc.
 
-### 7. Run the bot
+### 7. Run the bot 
+```apt install python3-pip -y```
 
 ```bash
 python3 rivencloud.py
@@ -114,7 +115,7 @@ Starting RIVEN CLOUD VPS Manager...
 
 ### 8. Keep it running 24/7
 
-Create `/etc/systemd/system/rivencloud.service`:
+Create `sudo nano /etc/systemd/system/rivencloud.service`:
 
 ```ini
 [Unit]
