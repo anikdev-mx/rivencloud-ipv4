@@ -100,9 +100,7 @@ if you're on AWS, GCP, Azure, Contabo, Hetzner, etc.
 
 ### 7. Run the bot 
 ```bash
-apt install python3-pip -y```
-
-```bash
+apt install python3-pip -y
 python3 rivencloud.py
 ```
 
