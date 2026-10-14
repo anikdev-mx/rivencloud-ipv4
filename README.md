@@ -38,7 +38,7 @@ physical server, all from one bot.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/anikdev-mx/rivencloud-ipv4.git
 cd rivencloud-vpsbot
 ```
 
