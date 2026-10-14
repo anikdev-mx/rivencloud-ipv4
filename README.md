@@ -114,8 +114,7 @@ Starting RIVEN CLOUD VPS Manager...
 
 ### 8. Keep it running 24/7
 
-Create 
-```bash
+Create ```bash
 nano /etc/systemd/system/rivencloud.service```
 
 ```ini
