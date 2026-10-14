@@ -39,7 +39,7 @@ physical server, all from one bot.
 
 ```bash
 git clone https://github.com/anikdev-mx/rivencloud-ipv4.git
-cd rivencloud-vpsbot
+cd rivencloud-ipv4
 ```
 
 ### 2. Install Docker
